@@ -11,6 +11,8 @@
 #Mcontainer {
     width: 60%;
     float: left;
+    text-align: center;
+    margin-left: auto;
 }
 #Mcontainer h1 {
     font-family: Arial, Helvetica, sans-serif;

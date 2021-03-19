@@ -30,6 +30,8 @@
 }
 #Mcontainer h1 {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
 }
 #Mcontainer .course p {
     font-family: 'PT Serif', serif;
