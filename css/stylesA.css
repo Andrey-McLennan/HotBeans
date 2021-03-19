@@ -3,7 +3,7 @@
     height: 155%;
     margin-bottom: 50px;
 }
-#Lcontainer {
+.empty {
     width: 20%;
     float: left;
     background-color: #20E8F3;
@@ -65,9 +65,4 @@
 #Mcontainer form textarea:hover {
     box-shadow: 3px 3px 3px grey;
     transition-duration: 0.1s;
-}
-#Rcontainer {
-    width: 20%;
-    float: left;
-    background-color: #20E8F3;
 }
